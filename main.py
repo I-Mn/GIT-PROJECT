@@ -1,2 +1,2 @@
-print ("Hello World")
-print ("Ini adalah kode yang ada pada branch Latihan saja")
+print ("Selamat Siang")
+print ("Selamat pagi")
